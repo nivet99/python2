@@ -1,2 +1,4 @@
 print('Apple')
-print('banana')
+print('Banana')
+print('Orange')
+print('Chery')
